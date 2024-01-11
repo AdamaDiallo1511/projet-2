@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6c8aeff-baaf-4162-9f54-f82d1c9a7329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projet2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Etudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Professeur.java" afterDir="false" />
+    <list default="true" id="b6c8aeff-baaf-4162-9f54-f82d1c9a7329" name="Changes" comment="commit 2">
+      <change afterPath="$PROJECT_DIR$/src/Classe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etudiants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IEtudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IProfesseur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Professeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Professeur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -45,6 +44,14 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +61,15 @@
       <option name="presentableId" value="Default" />
       <updated>1704985028303</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit 2">
+      <option name="closed" value="true" />
+      <created>1705010616294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705010616294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="echo &quot;# Projet2java&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M index&#10;git remote add origin https://github.com/jockermax/Projet2java.git&#10;git push -u origin index" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
